@@ -1,6 +1,6 @@
 # Express js tutorial
 
 run 
- ```npm install```\n
- ```cp .env.example .env```
- ```npm start```
+ ```npm install```<br>
+ ```cp .env.example .env```<br>
+ ```npm start```<br>
