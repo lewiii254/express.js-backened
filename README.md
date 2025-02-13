@@ -1,7 +1,12 @@
-# 🔗🚀Express js tutorial
+run:
+```bash
+npm install
+```
 
-run 
+```bash
+cp .env.example .env
+```
 
- ```npm install```<br>
- ```cp .env.example .env```<br>
- ```npm start```<br>
+```bash
+npm start
+ ```
