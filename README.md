@@ -26,7 +26,7 @@ To witness this beautiful romance unfold on your local machine, follow these ste
 
 2. **Enter our love nest:**
    ```sh
-   cd romantic-express-mongo
+   cd express.js-backened
    ```
 
 3. **Install dependencies (because relationships need support too!):**
